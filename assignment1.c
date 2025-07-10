@@ -1,10 +1,10 @@
-/*Assignment 1 Lauren Mayers C22712435 Programming Assignment for ATM Menu 
+/*Assignment 1 Tired-Specter Programming Assignment for ATM Menu 
 Programme creates menu in which user can input a choice of four options related to a four integer PIN number
 Option one allows the user to ender a PIN number that has been initialised by 1234
 option Two allows for the change of the pin and subsequent verification
 option Three will tell the user how many times they have incorrectly or correctly entered the PIN as the programme was running
 Option four exits the program.
-Author: Lauren Mayers C22712435
+Author: Tired-Specter
 */
 
 #include <stdio.h>
